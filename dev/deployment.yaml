@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: tomcat:latest
+        image: ubutun:latest
         ports:
         - containerPort: 80
